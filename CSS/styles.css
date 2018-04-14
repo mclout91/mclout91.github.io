@@ -1,10 +1,15 @@
 #head{
 	
-	height: 200px;
-	background-image: url("../images/headerbg.png")
+	height: 250px;
+	background-size: contain;
+	background-color: black;
+	/*background-image: url("../images/profile.jpg")*/
+	
 	
 }
 
-h1{
-	color: "white";
+#subhead h1{
+	color: white;
+	text-align: center;
+	
 }
